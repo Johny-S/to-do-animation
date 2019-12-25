@@ -1,5 +1,5 @@
 # to-do-animation
- - Test task for Moscow Industrial bank
+Test task for Moscow Industrial bank
 
 https://react-hooks-todo-19856.web.app/
 
